@@ -5,3 +5,5 @@ https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-cr
 Note: I wanna do the pixel art generation stuff at some point with a crdt system as the baseline so people can draw together and then tap to get generative creations
 
 Note again: I'm tired and wanna do some sort of vector encoding comparisons when I have time, might as well use real analysis 2 at some point
+
+Another note: no idea why, but I feel awful on 10_20_23. I think I'm sick with something really bad? Not sure but it's odd, may check back in here at some point
