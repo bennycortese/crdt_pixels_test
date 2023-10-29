@@ -38,7 +38,7 @@ export default class PixelEditor {
     this.#artboard = artboard;
 
     // listen for pointer events
-    this.#el.addEventListener("pointerdown", this);
+    this.#el.addEventListener("pointerdown", this); // note, something is wrong with these
     this.#el.addEventListener("pointermove", this);
     this.#el.addEventListener("pointerup", this);
 
