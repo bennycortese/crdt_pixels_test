@@ -70,6 +70,7 @@ export default class PixelEditor {
       // @ts-expect-error
       case "pointerdown": {
         this.#el.setPointerCapture(e.pointerId);
+        console.log("here");
         // fallthrough
       }
 
