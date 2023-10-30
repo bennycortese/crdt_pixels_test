@@ -76,6 +76,7 @@ export default class PixelEditor {
 
       // eslint-disable-next-line no-fallthrough
       case "pointermove": {
+        console.log("hereMove");
         if (!this.#el.hasPointerCapture(e.pointerId)) return;
 
         // convert canvas pixels to artboard pixels
